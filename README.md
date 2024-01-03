@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @leoBHSreis - Leonardo Reis.
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning Java.
-- 
+- 👋 Hi, I’m @leoBHSreis - Leonardo Reis
+- Technology Agent at Banco do Brasil S.A.
+-DevOps professional
+  
 
 
